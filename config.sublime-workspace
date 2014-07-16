@@ -1,0 +1,441 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"borrow",
+				"borrower_list"
+			],
+			[
+				"Checkout",
+				"checkout_date"
+			],
+			[
+				"bmi",
+				"bmi_values"
+			],
+			[
+				"weig",
+				"weight_values"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"selected_items":
+		[
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add..."
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"gi tad",
+				"Git: Add..."
+			],
+			[
+				"diff",
+				"Git: Diff All Files"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"custom",
+				"Git: Custom Command"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git dif",
+				"Git: Diff All Files"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git  pull",
+				"Git: Pull"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"pul",
+				"Git: Pull"
+			],
+			[
+				"preferenc",
+				"Preferences: Settings - User"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"log",
+				"Git: Log All"
+			],
+			[
+				"git chang",
+				"Git: Change Branch"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"git unst",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"git unsta",
+				"Git: Reset (unstage) All"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/saulebussing/code/Ruby/song-library/app/controllers/welcome_controller.rb",
+		"/Users/saulebussing/code/Ruby/library/app/controllers/books_controller.rb",
+		"/Users/saulebussing/code/Ruby/library/app/views/books/show.html.erb",
+		"/Users/saulebussing/code/Ruby/library/CHANGELOG.md",
+		"/Users/saulebussing/code/Ruby/library/app/views/books/index.html.erb",
+		"/Users/saulebussing/code/Ruby/library/app/models/book.rb",
+		"/Users/saulebussing/code/Ruby/library/app/views/welcome/dummytable.html.erb",
+		"/Users/saulebussing/code/Ruby/library/app/models/borrower.rb",
+		"/Users/saulebussing/code/Ruby/library/app/assets/javascripts/datatables.js",
+		"/Users/saulebussing/code/Ruby/library/app/views/layouts/application.html.erb",
+		"/Users/saulebussing/code/Ruby/library/config/routes.rb",
+		"/Users/saulebussing/code/Ruby/library/app/controllers/welcome_controller.rb",
+		"/Users/saulebussing/code/Ruby/library/app/views/dummytable.html.erb",
+		"/Users/saulebussing/code/Ruby/library/db/migrate/20140707142925_create_books.rb",
+		"/Users/saulebussing/code/Ruby/library/app/assets/stylesheets/cdn-datatables.css.scss",
+		"/Users/saulebussing/code/Ruby/library/test/fixtures/books.yml",
+		"/Users/saulebussing/code/Ruby/library/test/controllers/books_controller_test.rb",
+		"/Users/saulebussing/code/Ruby/library/db/migrate/20140708171513_books.rb",
+		"/Users/saulebussing/code/Ruby/library/db/schema.rb",
+		"/Users/saulebussing/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/saulebussing/code/Ruby/library/app/views/books/show.json.jbuilder",
+		"/Users/saulebussing/code/Ruby/library/config/application.rb",
+		"/Users/saulebussing/code/Ruby/library/tmp/cache/assets/development/sass/478a9779aebd361be663992232e5d3f0adc9139c/_utilities.scssc",
+		"/Users/saulebussing/code/Ruby/library/app/views/books/index.json.jbuilder",
+		"/Users/saulebussing/code/Ruby/library/app/views/books/_form.html.erb",
+		"/Users/saulebussing/code/Ruby/library/app/controllers/application_controller.rb",
+		"/Users/saulebussing/code/Ruby/library/VERSION",
+		"/Users/saulebussing/code/Ruby/library/app/assets/stylesheets/books.css.scss",
+		"/Users/saulebussing/code/Ruby/library/app/assets/stylesheets/application.css.scss",
+		"/Users/saulebussing/code/Ruby/library/bin/spring",
+		"/Users/saulebussing/code/Ruby/library/config/boot.rb",
+		"/Users/saulebussing/code/Ruby/library/bin/bundle",
+		"/Users/saulebussing/code/Ruby/library/README.md",
+		"/Users/saulebussing/code/Ruby/library/.travis.yml",
+		"/Users/saulebussing/code/Ruby/library/README.rdoc",
+		"/Users/saulebussing/code/Ruby/library/tmp/cache/assets/development/sprockets/e6139a687fbe7e3b013de259d47d1183",
+		"/Users/saulebussing/code/Ruby/library/config/environments/production.rb",
+		"/Users/saulebussing/code/Ruby/library/Rakefile",
+		"/Users/saulebussing/code/Ruby/library/public/robots.txt",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Questionnaires/Calgary/a01.json",
+		"/Users/saulebussing/code/spout/CHANGELOG.md",
+		"/Users/saulebussing/Desktop/dataset-parsing/check_calculation.rb",
+		"/Users/saulebussing/Desktop/dataset-parsing/check_calculation_test.rb",
+		"/Users/saulebussing/code/github/abc-data-dictionary/test/dictionary_test.rb",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Oxygen Saturation/mndrop2.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Signal Quality/period.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Administrative/haspaperwork.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/domains/CalgaryDomain/calgary_amounts.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/domains/PSG/noyesmissing.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Blood Results/creactive_protein.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Questionnaires/Calgary/d22s.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Questionnaires/Calgary/d23s.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Signal Quality/otherou.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Administrative/unustgou.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Administrative/hipriscore.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Administrative/losoth.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Administrative/maxresou30.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Administrative/npflow.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Administrative/unuhroth.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Administrative/unuhrou.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Arousals/arsl3ou.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Oxygen Saturation/sa02lt90.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Oxygen Saturation/sa02lt92.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Respiratory Events/Indexes/ahilt2.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Respiratory Events/Indexes/ahiov20.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Respiratory Events/Indexes/ahiov30.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Respiratory Events/Indexes/apnhyppr.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Respiratory Events/Indexes/respevpr.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Signal Quality/abnoreeg.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Signal Quality/alpdel.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Signal Quality/arunrel.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Signal Quality/losbeg.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Signal Quality/recbeaw.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Signal Quality/remarunrel.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Signal Quality/slewake.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Signal Quality/stg1stg2pr.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Signal Quality/stg2stg3pr.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Signal Quality/wakslepr.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Sleep Architecture/remnrempr.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Sleep Events/Limb Movements/plmou25.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Sleep Events/Limb Movements/posn.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Oxygen Saturation/mndrop.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Oxygen Saturation/mndroa.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Oxygen Saturation/mndrba.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Oxygen Saturation/mndnba.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Heart Rate/mnhrahslp.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/domains/EQ5D/mobility.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/domains/SF36/bpain.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Blood Results/ldl_cholesterol_calculation.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography/Signal Quality/qulegl.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/domains/phq8.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Blood Results/vldl_cholesterol_cal.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Blood Results/urine_microalbumin.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Blood Results/urine_creatinine.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Blood Results/triglycerides.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Blood Results/total_cholesterol.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Blood Results/glucose_serum.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Blood Results/hemoglobin_a1c.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Blood Results/fibrinogen_activity.json",
+		"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Blood Results/hdl_cholesterol.json",
+		"/Users/saulebussing/Desktop/hcfdtt.txt"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/Users/saulebussing/code/github/abc-data-dictionary/variables/Measurements/Polysomnography"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"mData",
+			"name",
+			":name",
+			"book.name",
+			"genre",
+			"book_params",
+			"author",
+			"check",
+			"time",
+			"checkin",
+			">>>>",
+			">>>>>>>",
+			"ds02p",
+			"\"domain\": \"noyes\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"domain\": \"noyes01\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "config.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"app/models/book.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"bookcont",
+				"app/controllers/books_controller.rb"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"books",
+				"app/controllers/books_controller.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"mndrop2",
+				"variables/Measurements/Polysomnography/Oxygen Saturation/mndrop2.json"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 289.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
